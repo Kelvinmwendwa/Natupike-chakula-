@@ -302,6 +302,7 @@ body{
     }
 }
 
+
 @media screen and (min-width: 992px){
     #meal{
         grid-template-columns: repeat(3, 1fr);
